@@ -103,6 +103,7 @@ To get the project working, you need to install the following dependencies.
 ## Contributors
 
 - Siddhant Rai Nigam <https://github.com/iamsidnigam>
+- Yogesh Kaushik <https://github.com/Its-Yogesh-100)>
 
 ---
 
